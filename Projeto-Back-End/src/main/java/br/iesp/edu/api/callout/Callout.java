@@ -14,7 +14,7 @@ public class Callout {
 
     private static final String POST_COMPOSITE = "https://curious-goat-cs3atg-dev-ed.my.salesforce.com/services/data/v56.0/composite";
 
-    private static final String TOKEN_AUTHSF = "Bearer 00D8c000004w5Xc!ARIAQByDC9aocaogMTt137WRkQK_Ykm1qJ2I4C2VT7RYAJ4N0nWibRrATpzqy8wRtHzEfzvXeaTNpfqC_a_01V1NJp0vvqJc";
+    private static final String TOKEN_AUTHSF = "Bearer 00D8c000004w5Xc!ARIAQHwvPPP.oVLRmIYQT39SjYvTXiLr.bnyjuF1ToAH_Sa82ePpLCDnVXMequNonMyyg6BRD1yOvFA95TovxJ74.Pa7BUSG";
 
     public static void main(String[] args) throws IOException {
         sendEmail("igorassisvilar@gmail.com","60");
